@@ -114,7 +114,7 @@ function App() {
       <div className="bg-art" />
       <header className="topbar">
         <div className="dc-logo" onClick={handleLogoClick} title="Go to home">
-          <img src="/dclogorevamped.webp" alt="DC" className="dc-badge-img" />
+          <img src="/dclogorevamped.png" alt="DC" className="dc-badge-img" />
           <div className="dc-tagline">
             <span>DC Animated</span>
             <span>Universe Films</span>
